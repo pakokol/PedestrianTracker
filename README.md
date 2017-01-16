@@ -1,2 +1,2 @@
 # PedestrianTracker
-An OpenCV powered app that tracks pedestrians.
+An OpenCV powered app written in C++ that tracks pedestrians.
